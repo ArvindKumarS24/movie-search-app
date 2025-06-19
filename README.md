@@ -19,8 +19,10 @@
 - 💬 Modal popup with full movie info
 - 📱 Mobile responsive layout
 
-## 📸 Preview
-![Movie Search App Screenshot](screenshoots/Screenshot 2025-06-19 182819.png) <!-- Replace with your actual image URL -->
+
+
+![Movie Search App Screenshot](https://raw.githubusercontent.com/ArvindKumarS24/movie-search-app/main/screenshots/batman-preview.png)
+-- Replace with your actual image URL -->
 
 ## 📦 Setup Instructions
 ```bash
